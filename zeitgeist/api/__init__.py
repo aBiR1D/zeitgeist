@@ -1,0 +1,1 @@
+"""Zeitgeist FastAPI application."""

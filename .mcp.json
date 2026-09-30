@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "zeitgeist": {
+      "command": "python",
+      "args": ["-m", "zeitgeist.mcp.server"],
+      "cwd": ".",
+      "env": {}
+    }
+  }
+}
